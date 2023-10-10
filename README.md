@@ -4,13 +4,13 @@ This is a simple boilerplate project for starting a web development project usin
 
 ## Features
 
-- [React](https://reactjs.org/) as the UI library.
+- [React](https://react.dev/) as the UI library.
 - [TypeScript](https://www.typescriptlang.org/) as the programming language.
 - [Tailwind CSS](https://tailwindcss.com/) as the CSS framework.
 - [Vite](https://vitejs.dev/) as the build tool.
 - [Eslint](https://eslint.org/) as the linter.
 - [Prettier](https://prettier.io/) as the code formatter.
-- [Husky](https://typicode.github.io/husky/#/) as the Git hooks manager.
+- [Husky](https://typicode.github.io/husky/) as the Git hooks manager.
 - [GitHub Pages](https://pages.github.com/) as the hosting service.
 
 ## Getting Started
