@@ -477,7 +477,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/js@npm:9.25.1, @eslint/js@npm:^9.22.0":
+"@eslint/js@npm:9.25.1, @eslint/js@npm:^9.25.1":
   version: 9.25.1
   resolution: "@eslint/js@npm:9.25.1"
   checksum: 10c0/87d86b512ab109bfd3b9317ced3220ea3d444ac3bfa7abd853ca7f724d72c36e213062f9def16a632365d97dc29e0094312e3682a9767590ee6f43b3d5d873fd
@@ -1036,7 +1036,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^19.0.4":
+"@types/react-dom@npm:^19.1.2":
   version: 19.1.2
   resolution: "@types/react-dom@npm:19.1.2"
   peerDependencies:
@@ -1045,7 +1045,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:^19.0.10":
+"@types/react@npm:^19.1.2":
   version: 19.1.2
   resolution: "@types/react@npm:19.1.2"
   dependencies:
@@ -1166,7 +1166,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitejs/plugin-react@npm:^4.3.4":
+"@vitejs/plugin-react@npm:^4.4.1":
   version: 4.4.1
   resolution: "@vitejs/plugin-react@npm:4.4.1"
   dependencies:
@@ -1606,7 +1606,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-react-refresh@npm:^0.4.19":
+"eslint-plugin-react-refresh@npm:^0.4.20":
   version: 0.4.20
   resolution: "eslint-plugin-react-refresh@npm:0.4.20"
   peerDependencies:
@@ -1639,7 +1639,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^9.22.0":
+"eslint@npm:^9.25.1":
   version: 9.25.1
   resolution: "eslint@npm:9.25.1"
   dependencies:
@@ -2753,7 +2753,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^19.0.0":
+"react-dom@npm:^19.1.0":
   version: 19.1.0
   resolution: "react-dom@npm:19.1.0"
   dependencies:
@@ -2775,28 +2775,28 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "react-tailwind-ts-starter@workspace:."
   dependencies:
-    "@eslint/js": "npm:^9.22.0"
+    "@eslint/js": "npm:^9.25.1"
     "@tailwindcss/vite": "npm:^4.1.4"
-    "@types/react": "npm:^19.0.10"
-    "@types/react-dom": "npm:^19.0.4"
-    "@vitejs/plugin-react": "npm:^4.3.4"
-    eslint: "npm:^9.22.0"
+    "@types/react": "npm:^19.1.2"
+    "@types/react-dom": "npm:^19.1.2"
+    "@vitejs/plugin-react": "npm:^4.4.1"
+    eslint: "npm:^9.25.1"
     eslint-plugin-react-hooks: "npm:^5.2.0"
-    eslint-plugin-react-refresh: "npm:^0.4.19"
+    eslint-plugin-react-refresh: "npm:^0.4.20"
     globals: "npm:^16.0.0"
     husky: "npm:^9.1.7"
     prettier: "npm:^3.5.3"
     prettier-plugin-tailwindcss: "npm:^0.6.11"
-    react: "npm:^19.0.0"
-    react-dom: "npm:^19.0.0"
+    react: "npm:^19.1.0"
+    react-dom: "npm:^19.1.0"
     tailwindcss: "npm:^4.1.4"
-    typescript: "npm:~5.7.2"
-    typescript-eslint: "npm:^8.26.1"
-    vite: "npm:^6.3.1"
+    typescript: "npm:~5.8.3"
+    typescript-eslint: "npm:^8.31.0"
+    vite: "npm:^6.3.2"
   languageName: unknown
   linkType: soft
 
-"react@npm:^19.0.0":
+"react@npm:^19.1.0":
   version: 19.1.0
   resolution: "react@npm:19.1.0"
   checksum: 10c0/530fb9a62237d54137a13d2cfb67a7db6a2156faed43eecc423f4713d9b20c6f2728b026b45e28fcd72e8eadb9e9ed4b089e99f5e295d2f0ad3134251bdd3698
@@ -3142,7 +3142,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript-eslint@npm:^8.26.1":
+"typescript-eslint@npm:^8.31.0":
   version: 8.31.0
   resolution: "typescript-eslint@npm:8.31.0"
   dependencies:
@@ -3156,23 +3156,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:~5.7.2":
-  version: 5.7.3
-  resolution: "typescript@npm:5.7.3"
+"typescript@npm:~5.8.3":
+  version: 5.8.3
+  resolution: "typescript@npm:5.8.3"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10c0/b7580d716cf1824736cc6e628ab4cd8b51877408ba2be0869d2866da35ef8366dd6ae9eb9d0851470a39be17cbd61df1126f9e211d8799d764ea7431d5435afa
+  checksum: 10c0/5f8bb01196e542e64d44db3d16ee0e4063ce4f3e3966df6005f2588e86d91c03e1fb131c2581baf0fb65ee79669eea6e161cd448178986587e9f6844446dbb48
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@npm%3A~5.7.2#optional!builtin<compat/typescript>":
-  version: 5.7.3
-  resolution: "typescript@patch:typescript@npm%3A5.7.3#optional!builtin<compat/typescript>::version=5.7.3&hash=5786d5"
+"typescript@patch:typescript@npm%3A~5.8.3#optional!builtin<compat/typescript>":
+  version: 5.8.3
+  resolution: "typescript@patch:typescript@npm%3A5.8.3#optional!builtin<compat/typescript>::version=5.8.3&hash=5786d5"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 10c0/6fd7e0ed3bf23a81246878c613423730c40e8bdbfec4c6e4d7bf1b847cbb39076e56ad5f50aa9d7ebd89877999abaee216002d3f2818885e41c907caaa192cc4
+  checksum: 10c0/39117e346ff8ebd87ae1510b3a77d5d92dae5a89bde588c747d25da5c146603a99c8ee588c7ef80faaf123d89ed46f6dbd918d534d641083177d5fac38b8a1cb
   languageName: node
   linkType: hard
 
@@ -3217,7 +3217,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^6.3.1":
+"vite@npm:^6.3.2":
   version: 6.3.2
   resolution: "vite@npm:6.3.2"
   dependencies:
