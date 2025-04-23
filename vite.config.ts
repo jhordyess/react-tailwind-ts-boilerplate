@@ -1,8 +1,9 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
+// https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/react-tailwind-ts-boilerplate/',
-  resolve: { alias: { '@': '/src' } }
+  resolve: { alias: { '@': '/src' } },
+  // base: '/react-tailwind-ts-starter/', // Uncomment this line if deploying to GitHub Pages
 })
