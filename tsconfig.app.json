@@ -27,7 +27,7 @@
     "noImplicitReturns": true,
     "paths": {
       "@/*": ["./src/*"]
-    },
+    }
   },
   "include": ["src"]
 }
