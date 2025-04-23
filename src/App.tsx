@@ -1,5 +1,5 @@
-const Home = () => {
-  return (
+const App = () => 
+   (
     <div className="flex min-h-screen flex-col items-center justify-center py-2">
       <header className="flex flex-col items-center justify-center">
         <h1 className="text-4xl font-bold">Hello World!</h1>
@@ -9,6 +9,6 @@ const Home = () => {
       </main>
     </div>
   )
-}
 
-export default Home
+
+export default App
