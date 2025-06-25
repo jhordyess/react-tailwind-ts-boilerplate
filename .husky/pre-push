@@ -1,2 +1,2 @@
 # .husky/pre-push
-yarn validate
+pnpm validate
