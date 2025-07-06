@@ -60,7 +60,6 @@ react-tailwind-ts-starter/
 ├── index.html              # Entry point HTML file.
 ├── package.json            # Project configuration and dependencies.
 ├── pnpm-lock.yaml          # pnpm lock file for dependency versions.
-├── pnpm-workspace.yaml     # pnpm workspace configuration file.
 ├── README.md               # Project documentation.
 ├── tsconfig.app.json       # TypeScript configuration file for the application.
 ├── tsconfig.json           # TypeScript configuration file.
